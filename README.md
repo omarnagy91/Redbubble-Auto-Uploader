@@ -7,3 +7,4 @@
 • This bot works only for Stickers.<br>
 # How to Use the Bot
 • Make sure to watch the full tutorial on how to use the bot step by step.<br>
+• https://youtu.be/LMxVNP7Y8xY
